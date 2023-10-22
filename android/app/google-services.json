@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805248036097",
+    "project_id": "mynotes-jeeva",
+    "storage_bucket": "mynotes-jeeva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805248036097:android:a624995f7dc4ffe53aff00",
+        "android_client_info": {
+          "package_name": "com.makingnotes.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDtvXqjgOQI2HTfcgnq7c-ivEIzvJJZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
