@@ -12,11 +12,13 @@ void main() {
       title: 'Flutter Demo',
       theme: ThemeData(),
       home: const HomePage(),
+      debugShowCheckedModeBanner: false,
       routes: {
         '/login/': (context) {
           return const LoginView();
         },
         '/register/': (context) => const RegisterView(),
+        '/notes/': (context) => const MynotesView(),
       }));
 }
 
